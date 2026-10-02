@@ -1,0 +1,8 @@
+{
+  "server1": {
+    "hostname": "127.0.0.1",
+    "username": "replace-me",
+    "key_filename": "~/.ssh/id_ed25519",
+    "allowed_commands": ["df", "free", "uptime", "pwd", "ls"]
+  }
+}
