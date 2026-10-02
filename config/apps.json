@@ -1,0 +1,4 @@
+{
+  "vscode": {"linux": ["code"], "darwin": ["open", "-a", "Visual Studio Code"], "windows": ["code"]},
+  "chrome": {"linux": ["google-chrome"], "darwin": ["open", "-a", "Google Chrome"], "windows": ["cmd", "/c", "start", "chrome"]}
+}
